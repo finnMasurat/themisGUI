@@ -1,12 +1,13 @@
 .body .row {
-    padding-top: 1%;
+    padding-top: 2px;
     padding-left: 3%;
 }
 
 .row .logo {
     float: left;
-    padding-top: 6px;
+    padding-top: 2px;
     margin-right: 5%;
+    font-family: 'Josefin Slab', serif;
 }
 
 .searchbar {
